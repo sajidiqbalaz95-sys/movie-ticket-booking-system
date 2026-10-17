@@ -88,3 +88,6 @@ Data Science Student | Python Learner | Aspiring Data Engineer
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
+## 📊 Project Workflow
+
+![Movie Ticket Booking System](movie-ticket-booking-system.png)
